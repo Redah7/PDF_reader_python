@@ -34,7 +34,7 @@ for root, dirs, files in os.walk("."):
 #print(list1)
 #cv_list=['Ajayi_Olabode.pdf']
 #cv_list=['Kgogo_Alfred_.pdf']
-#cv_list=['Kgogo_Alfred_.pdf', 'Du_Plessis_Morné.pdf', 'Booi_Lungisani.pdf','Ajayi_Olabode.pdf']
+cv_list=['Kgogo_Alfred_.pdf', 'Du_Plessis_Morné.pdf', 'Booi_Lungisani.pdf','Ajayi_Olabode.pdf']
 #cv_list= os.listdir(os.getcwd())
 
 cv_list = os.listdir(os.getcwd())
